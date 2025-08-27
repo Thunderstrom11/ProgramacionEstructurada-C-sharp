@@ -1,0 +1,14 @@
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\bin\Debug\net8.0\Condicion1.exe
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\bin\Debug\net8.0\Condicion1.deps.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\bin\Debug\net8.0\Condicion1.runtimeconfig.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\bin\Debug\net8.0\Condicion1.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\bin\Debug\net8.0\Condicion1.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\refint\Condicion1.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\Condicion1.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Condicion1\obj\Debug\net8.0\ref\Condicion1.dll

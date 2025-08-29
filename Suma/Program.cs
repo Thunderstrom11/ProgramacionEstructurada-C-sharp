@@ -1,16 +1,5 @@
 ﻿// Suma de dos numeros
 
-
-// cd  Nombre de la carpeta del programa  +TAB  =mueve la terminal al proyecto
-
-
-// dotnet run  =Corre el programa
-
-//dotnet new console -n  Nombre = crea un nuevo proyecto
-
-
-
-
 //declaracion de variables
 
 

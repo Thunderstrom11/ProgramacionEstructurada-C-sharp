@@ -1,20 +1,18 @@
-﻿//Determinar si un número ingresado es positivo, negativo o cero usando if.
+﻿//Numero mayor o inferior a 10, Condicional 2 (if-else, else-if)
+int numero;
 
-int num;
+Console.WriteLine("Ingrese un numero cuyo valor superior o inferior a 10");
+numero = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Ingresa un numero");
-num = int.Parse(Console.ReadLine());
-
-if (num == 0)
+if (numero == 10)
 {
-    Console.WriteLine("Este numero es Cero");
+    Console.WriteLine("Este numero no es valido");
 }
-
-else if (num < 0)
+else if (numero < 10)
 {
-    Console.WriteLine("Este numero es Negativo");
+    Console.WriteLine("Este valor es Inferior a 10");
 }
 else
 {
-    Console.WriteLine("Este numero es Positivo");
+    Console.WriteLine("Este valor es Superior a 10");
 }

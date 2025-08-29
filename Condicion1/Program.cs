@@ -1,4 +1,4 @@
-﻿//Verificar si es mayor de edad
+﻿//Verificar si es mayor de edad, Condicional 1 (Estructura if y if-else)
 
 int edad;
 

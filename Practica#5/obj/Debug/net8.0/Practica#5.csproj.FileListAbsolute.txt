@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.sourcelink.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\bin\Debug\net8.0\Practica#5.exe
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\bin\Debug\net8.0\Practica#5.deps.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\bin\Debug\net8.0\Practica#5.runtimeconfig.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\bin\Debug\net8.0\Practica#5.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\bin\Debug\net8.0\Practica#5.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\refint\Practica#5.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\Practica#5.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#5\obj\Debug\net8.0\ref\Practica#5.dll

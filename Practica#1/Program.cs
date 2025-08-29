@@ -1,4 +1,5 @@
-﻿//Determinar si un número ingresado es positivo, negativo o cero usando if. (Práctica | Uso de if y switch en C# eje 1)
+﻿//Determinar si un número ingresado es positivo, negativo o cero usando if. 
+//(Práctica | Uso de if y switch en C# eje 1)
 
 int num;
 

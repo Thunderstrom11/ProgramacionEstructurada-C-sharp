@@ -1,4 +1,5 @@
-﻿//Pedir un número entre 1 y 7 y mostrar el día de la semana con switch. (Práctica | Uso de if y switch en C# eje 2)
+﻿//Pedir un número entre 1 y 7 y mostrar el día de la semana con switch.
+//(Práctica | Uso de if y switch en C# eje 2) 
 
 int num;
 string resp;
@@ -17,7 +18,7 @@ switch (num)
         break;
     case 3:
         resp = "Miércoles";
-        break;
+        break; 
     case 4:
         resp = "Jueves";
         break;

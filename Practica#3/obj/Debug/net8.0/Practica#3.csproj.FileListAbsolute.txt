@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\bin\Debug\net8.0\Practica#3.exe
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\bin\Debug\net8.0\Practica#3.deps.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\bin\Debug\net8.0\Practica#3.runtimeconfig.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\bin\Debug\net8.0\Practica#3.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\bin\Debug\net8.0\Practica#3.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.sourcelink.json
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\refint\Practica#3.dll
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.pdb
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\Practica#3.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace\ProgramacionEstructurada(C#)\Practica#3\obj\Debug\net8.0\ref\Practica#3.dll

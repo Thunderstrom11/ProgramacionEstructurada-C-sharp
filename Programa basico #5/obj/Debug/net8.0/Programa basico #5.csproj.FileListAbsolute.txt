@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\bin\Debug\net8.0\Programa basico #5.exe
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\bin\Debug\net8.0\Programa basico #5.deps.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\bin\Debug\net8.0\Programa basico #5.runtimeconfig.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\bin\Debug\net8.0\Programa basico #5.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\bin\Debug\net8.0\Programa basico #5.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.sourcelink.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\refint\Programa basico #5.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\Programa basico #5.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #5\obj\Debug\net8.0\ref\Programa basico #5.dll

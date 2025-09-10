@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\bin\Debug\net8.0\Programa basico #2.exe
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\bin\Debug\net8.0\Programa basico #2.deps.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\bin\Debug\net8.0\Programa basico #2.runtimeconfig.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\bin\Debug\net8.0\Programa basico #2.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\bin\Debug\net8.0\Programa basico #2.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.sourcelink.json
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\refint\Programa basico #2.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\Programa basico #2.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Programas basicos de C#\Programa basico #2\obj\Debug\net8.0\ref\Programa basico #2.dll

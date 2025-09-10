@@ -1,0 +1,21 @@
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #4.exe
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #4.deps.json
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #4.runtimeconfig.json
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #4.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #4.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.AssemblyInfo.cs
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\refint\Ejercicio #4.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.genruntimeconfig.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\ref\Ejercicio #4.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #10.deps.json
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #10.runtimeconfig.json
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #10.exe
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #10.dll
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\bin\Debug\net8.0\Ejercicio #10.pdb
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercicio #4.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\Workspace(VS2022)\Ejercicios de C# (Nivel Básico)\Ejercicio #4\obj\Debug\net8.0\Ejercici.CB92966E.Up2Date
